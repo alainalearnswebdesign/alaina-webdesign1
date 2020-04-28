@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Alaina Saxon</title>
+	</head>
+
+	<body>
+		<h1>Alaina Saxon</h1>
+		<p>This is my first page for my HTML5 course.</p>
+
+
+<a href="https://www.disneysprings.com/dining/">One</a>
+		<a href="https://www.broadway.com/">Two</a>
+		<a href="https://www.nasa.gov/">Three</a>
+	<a href="https://www.foodnetwork.com/topics/cupcake">Cupcake Recipe!</a>
+</div>
+
+<hr>	
+<div>
+
+	<head><b>Alaina's Favorite Foods</b></head>
+		<ul>
+			<li>Shrimp</li>
+			<li>Salmon</li>
+			<li>Sweet Potato</li>
+			<li>Cupcakes</li>
+		
+		</ul>
+
+</div>
+
+<div>
+
+	          <head><b>Achievements</b></head>
+	<p>Progress in this course (100%) <progress value = "100" max = "100"/></p>
+	<p>Progress in the Specialization capstone (20%) <progress value = "20" max = "100"/></p>
+	<p><em>Progress in life goals (35%) <progress value = "35" max = "100"/></em></p>
+
+</div>
+
+<div>
+
+			<head><b>More About Me</b></head>
+
+<details>
+	<summary>I grew up on the East Coast.</summary>
+	Our summers are hot and humid and our winters are unpredictable. My favorite season as a child was summer. I loved the weather and the last day of school activities. 
+	
+</details>
+
+</div>
+
+<div>
+	<img src="AlainaGradSitting.jpg" width="150px" alt="Grad Image"/>
+	
+</div>
+
+<div>
+	<a href="http://www.intro-webdesign.com/images/newlogo.png">    <img src="wdfe.logo.jpg" width="200" alt="Web Design for Everyone Logo"/></a>
+	<p>This page was created by Alaina Saxon &amp; Colleen van Lent.<br>To learn more about web design, visit <a href="https://www.coursera.org/specializations/web-design">Intro to Web Design.</a></p>
+
+</div>
+	</body>
+</html>
+
+		Copyright &copy; 2020 Alaina Codes
